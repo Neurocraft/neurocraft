@@ -1,4 +1,4 @@
-# Neurocraft || The Microscale Neuroengineering Platform
+# Neurocraft || The Microscale Neuro-engineering Platform
 
 [![Downloads](https://img.shields.io/github/downloads/gephi/gephi/v0.9.2/total.svg)](https://github.com/Neurognostics/neurocraft/wiki/Releases)
 
