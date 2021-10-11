@@ -1,0 +1,2 @@
+# neurocraft
+Open neuroengineering platform
