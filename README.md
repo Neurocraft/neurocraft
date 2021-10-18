@@ -1,19 +1,15 @@
 # Neurocraft || The Microscale Neuro-engineering Platform
 
-[![Downloads](https://img.shields.io/github/downloads/gephi/gephi/v0.9.2/total.svg)](https://github.com/Neurognostics/neurocraft/wiki/Releases)
+[![Downloads](https://img.shields.io/github/downloads/Neurocraft/neurocraft/v0.1.0/total.svg)](https://github.com/Neurognostics/neurocraft/wiki/Releases)
 
 [Neurocraft](http://neurocraft.co.uk) is a platform featuring peer-reviewed methodology for feature extraction and modelling of electrophysiological data. It runs on MATLAB and its beta release will also be available on Windows and Mac OS X as stand-alone applications.
 
 - **SOTA** Powered by a wavelet coherence engine, Neurocraft is able to push the envelope with ultra-high temporal and frequency resolution of neuronal dynamics. All actions (e.g. layout, filter, drag) run in real-time.
-
 - **Simple** Easy to install and [get started](https://www.neurocraft.co.uk/#get_started). An UI that is centered around the visualization. Like Photoshop™ for brain networks.
-
 - **Comprehensive**  A wide variety of analytics and modelling offers thorough data exploration
 
-  :point_right:  network evolution maps around event of interest
-
-  :point_right:  influence analysis of nodes/areas
-  
+  :point_right:  network evolution maps around event of interest\
+  :point_right:  influence analysis of nodes/areas\
   :point_right:  propagation model for annotated brain activity
 
 
