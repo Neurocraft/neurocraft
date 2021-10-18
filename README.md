@@ -15,7 +15,7 @@
 
 [Download Neurocraft](https://www.neurocraft.co.uk/#download) for Mac OS X and MATLAB and consult the [release notes](https://github.com/Neurognostics/neurocraft/wiki/Releases). Example datasets can be found on our [wiki](https://github.com/Neurognostics/neurocraft/wiki/Datasets).
 
-![image](https://user-images.githubusercontent.com/429321/136833826-d945a76b-1829-4e20-b93e-7b2b9a859f3e.png)
+![image](https://user-images.githubusercontent.com/429321/136833826-d945a76b-1829-4e20-b93e-7b2b9a859f3e.pngf)
 
 ## Install and use neurocraft
 
