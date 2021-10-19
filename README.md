@@ -1,5 +1,12 @@
 # Neurocraft || The Microscale Neuro-engineering Platform
 
+[**Why torchdata?**](#why-composable-data-loading)
+| [**Install guide**](#installation)
+| [**What are DataPipes?**](#what-are-datapipes)
+| [**Prototype Usage and Feedback**](#prototype-usage-and-feedback)
+| [**Contributing**](#contributing)
+| [**Future Plans**](#future-plans)
+
 [![Downloads](https://img.shields.io/github/downloads/Neurocraft/Neurocraft/total)](https://github.com/Neurocraft/neurocraft/releases)
 
 [Neurocraft](http://neurocraft.co.uk) is a platform featuring peer-reviewed methodology for feature extraction and modelling of electrophysiological data. It runs on MATLAB and its beta release will also be available on Windows and Mac OS X as stand-alone applications.
@@ -45,5 +52,5 @@ We hope to sufficiently expand the library, harden APIs, and gather feedback to 
 
 ## License
 
-Neurocraft is CC licensed, as found in the [LICENSE](LICENSE.md) file.
+Neurocraft is CC licensed, as found in the [LICENSE](LICENSE) file.
 
