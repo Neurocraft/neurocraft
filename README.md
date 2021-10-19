@@ -1,6 +1,6 @@
 # Neurocraft || The Microscale Neuro-engineering Platform
 
-[**Why torchdata?**](#why-composable-data-loading)
+[**Why Microscale?**](#why-microscale?)
 | [**Install guide**](#installation)
 | [**What are DataPipes?**](#what-are-datapipes)
 | [**Prototype Usage and Feedback**](#prototype-usage-and-feedback)
@@ -10,7 +10,9 @@
 [![Downloads](https://img.shields.io/github/license/neurocraft/neurocraft)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Neurocraft/Neurocraft/total)](https://github.com/Neurocraft/neurocraft/releases)
 
-[Neurocraft](http://neurocraft.co.uk) is a platform featuring peer-reviewed methodology for feature extraction and modelling of electrophysiological data. It runs on MATLAB and its beta release will also be available on Windows and Mac OS X as stand-alone applications.
+## Why Neurocraft?
+
+[Neurocraft](http://neurocraft.co.uk) is a platform featuring peer-reviewed methodology for feature extraction and modelling of electrophysiological data. 
 
 - **SOTA.** Powered by a wavelet coherence engine, Neurocraft is able to push the envelope with ultra-high temporal and frequency resolution of neuronal dynamics. All actions (e.g. layout, filter, drag) run in real-time.
 - **Simple.** Easy to install and [get started](https://www.neurocraft.co.uk/#get_started). An UI that is centered around the visualization. Like Photoshop™ for brain networks.
