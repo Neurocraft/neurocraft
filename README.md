@@ -39,7 +39,7 @@ A key solution to the above is microscale network dynamics; I will specifically 
 
 Download and [Install](https://github.com/Neurocraft/neurocraft/wiki/Quick-Install) neurocraft on your computer. 
 
-Get started with the [Quick Start](https://github.com/Neurognostics/neurocraft/wiki/quick-install/) and follow the [Tutorials](https://github.com/Neurognostics/neurocraft/wiki/Tutorials/). Load a sample [dataset](https://github.com/Neurognostics/neurocraft/wiki/Datasets) and start to play with the data.
+Get started with the [Quick Start](https://github.com/Neurognostics/neurocraft/wiki/quick-install/) and follow the [User Manual](https://github.com/Neurocraft/neurocraft/wiki/User-Manual). Load a sample [dataset](https://github.com/Neurognostics/neurocraft/wiki/Datasets) and start to play with the data.
 
 If you run into any trouble or have questions consult our [forum](https://neurocraft.talkyard.net/).
 
