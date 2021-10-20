@@ -32,7 +32,7 @@ A key solution to the above is microscale network dynamics; I will specifically 
 
 [Download Neurocraft](https://www.neurocraft.co.uk/#download) for Mac OS X and MATLAB and consult the [release notes](https://github.com/Neurognostics/neurocraft/wiki/Releases). Example datasets can be found on our [wiki](https://github.com/Neurognostics/neurocraft/wiki/Datasets).
 
-<img src="/images/Fig1_final.png" width="60%">
+<img src="/images/Fig1_final.png" width="100%">
 <i>Fig 2. Neurocraft data flow diagram.</i>
 
 ## Install Guide
