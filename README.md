@@ -22,7 +22,7 @@ A key solution to the above is microscale network dynamics; I will specifically 
 [Neurocraft](http://neurocraft.co.uk) is a platform featuring peer-reviewed methodology for feature extraction and modelling of electrophysiological data. Neurocraft uses ultra-high temporal brain signals to (a) decode normal brain function and (b) model respective network activity.
 
 - **SOTA.** Powered by a wavelet coherence engine, Neurocraft is able to push the envelope with ultra-high temporal and frequency resolution of neuronal dynamics. All actions (e.g. layout, filter, drag) run in real-time.
-- **Simple.** Easy to install and [get started](https://www.neurocraft.co.uk/#get_started). An UI that is centered around the visualization. Like Photoshop™ for brain networks.
+- **Simple.** Easy to [Install](https://github.com/Neurocraft/neurocraft/wiki/Quick-Install) and [get started](https://github.com/Neurocraft/neurocraft/wiki/User-Manual). An UI that is centered around the visualization. Like Photoshop™ for brain networks.
 - **Comprehensive.**  A wide variety of analytics and modelling offers thorough data exploration
 
   :point_right:  network evolution maps around event of interest\
