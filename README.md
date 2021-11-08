@@ -4,7 +4,6 @@
 | [**What is Neurocraft?**](#what-is-neurocraft)
 | [**Install guide**](#install-guide)
 | [**Latest Releases**](#latest-releases)
-| [**Prototype Usage and Feedback**](#prototype-usage-and-feedback)
 | [**Future Plans**](#future-plans)
 
 [![Downloads](https://img.shields.io/github/license/neurocraft/neurocraft)](LICENSE)
