@@ -3,6 +3,7 @@
 [**Why Microscale?**](#why-microscale)
 | [**What is Neurocraft?**](#what-is-neurocraft)
 | [**Install guide**](#install-guide)
+| [**User Manual**](https://github.com/Neurocraft/neurocraft/wiki/User-Manual)
 | [**Latest Releases**](#latest-releases)
 | [**Future Plans**](#future-plans)
 
