@@ -1,4 +1,4 @@
-# Neurocraft | The Microscale Neuro-engineering Platform
+# Neurocraft: The Microscale Neuro-engineering Platform
 
 [**Why Microscale?**](#why-microscale)
 | [**What is Neurocraft?**](#what-is-neurocraft)
