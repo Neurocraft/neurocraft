@@ -13,7 +13,7 @@
 ## Why Microscale?
 Brain dynamics switch very rapidly between different brain states many times per second, therefore any evidence of an “abnormal brain state” during long EEG epochs is likely to be hidden amongst many other brain states and not optimally represented by a multi-second average. 
 
-A key solution to the above is microscale network dynamics; I will specifically examine the transient brain state associated with abnormal activities (e.g. interictal epileptiform discharges, beta bursts), regarding this as a very readily available window into the abnormal brain state.
+A key solution to the above is microscale network dynamics. Microscale dynamics can accurately decode the transient brain state associated with abnormal activities (e.g. interictal epileptiform discharges, beta bursts), regarding this as a very readily available window into the abnormal brain state.
 
 <img src="/images/Scale_comparison.gif" width="60%">
 <i>Fig 1. Treating the neurological conditions with drugs is like playing the piano using a sledgehammer.</i>
